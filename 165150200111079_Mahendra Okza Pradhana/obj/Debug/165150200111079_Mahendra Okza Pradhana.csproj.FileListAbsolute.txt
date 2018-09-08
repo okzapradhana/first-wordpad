@@ -1,0 +1,10 @@
+c:\users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\bin\Debug\165150200111079_Mahendra Okza Pradhana.exe.config
+c:\users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\bin\Debug\165150200111079_Mahendra Okza Pradhana.exe
+c:\users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\bin\Debug\165150200111079_Mahendra Okza Pradhana.pdb
+c:\users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\165150200111079_Mahendra Okza Pradhana.csprojAssemblyReference.cache
+c:\users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\_165150200111079_Mahendra_Okza_Pradhana.Properties.Resources.resources
+c:\users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\165150200111079_Mahendra Okza Pradhana.csproj.GenerateResource.cache
+c:\users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\165150200111079_Mahendra Okza Pradhana.csproj.CoreCompileInputs.cache
+c:\users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\165150200111079_Mahendra Okza Pradhana.exe
+c:\users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\165150200111079_Mahendra Okza Pradhana.pdb
+C:\Users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\_165150200111079_Mahendra_Okza_Pradhana.Form_1079_1.resources

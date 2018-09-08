@@ -1,0 +1,10 @@
+C:\Users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\bin\Debug\Wordpad.exe.config
+C:\Users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\bin\Debug\Wordpad.exe
+C:\Users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\bin\Debug\Wordpad.pdb
+C:\Users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\Wordpad.csprojAssemblyReference.cache
+C:\Users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\Wordpad.Form_1079_1.resources
+C:\Users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\Wordpad.Properties.Resources.resources
+C:\Users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\Wordpad.csproj.GenerateResource.cache
+C:\Users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\Wordpad.csproj.CoreCompileInputs.cache
+C:\Users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\Wordpad.exe
+C:\Users\okzam\source\repos\165150200111079_Mahendra Okza Pradhana\165150200111079_Mahendra Okza Pradhana\obj\Debug\Wordpad.pdb
